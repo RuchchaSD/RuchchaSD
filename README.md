@@ -1,6 +1,6 @@
 # 🌌 Welcome to Ruchith's Code Universe! 🚀
 
-<!-- TODO - change the quote -->
+<!-- TODO - Hello change the quote -->
 > "The world is a sandbox, and I'm here to build castles of code." 
 
 Hi there! I'm **Ruchith Wickramanayake**, an **Engineer**, **Researcher**, **Tech Explorer**, and a **very curious mind**, diving deep into **Algorithms**, **Robotics**, **Computer Vision**, **Accelerated Computing**, and **Deep Learning**. My mission? To blend theoretical brilliance with hands-on innovation to optimize everything—from algorithms to life itself.
