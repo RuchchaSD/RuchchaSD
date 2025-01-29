@@ -84,9 +84,9 @@ I believe in working smart, not hard. If there’s a way to automate it, optimiz
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchchaSD&theme=tokyonight&" alt="RuchchaSD" />
   </p>
   
-  <p>
+  <!-- <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchchaSD&show_icons=true&theme=tokyonight" alt="RuchchaSD" />
-  </p>
+  </p> -->
 </div>
 
 ---
